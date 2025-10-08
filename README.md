@@ -19,6 +19,3 @@ A simple **web app** to calculate calories of popular **Indian foods** based on 
 - HTML5
 - CSS3
 - JavaScript (Vanilla)
-
-## Example
-
