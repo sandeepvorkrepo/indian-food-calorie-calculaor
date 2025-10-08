@@ -1,2 +1,24 @@
-# indian-food-calorie-calculaor
-"A simple Indian Food Calorie Calculator web app that lets users select popular Indian foods, enter quantity, and instantly calculates total calories. Built with HTML, CSS, and JavaScript for a clean and user-friendly interface."
+# Indian Food Calorie Calculator 🍛
+
+A simple **web app** to calculate calories of popular **Indian foods** based on quantity. Built using **HTML, CSS, and JavaScript** with a clean and user-friendly interface.
+
+## Features
+- Select popular Indian food items like **Roti, Rice, Dal, Paneer, Chicken Curry**.
+- Enter **quantity** to calculate total calories.
+- Instant calorie calculation with clear results.
+- Simple, responsive, and Indian-themed UI.
+
+## How to Use
+1. Clone or download the repository.
+2. Open `index.html` in your browser.
+3. Select a food item from the dropdown.
+4. Enter the quantity.
+5. Click **Calculate** to see total calories.
+
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## Example
+
